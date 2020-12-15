@@ -1,2 +1,2 @@
-MyFirstProgram.java
- MyFirstProgram
+us/qa/mfp/sandbox/MyFirstProgram.java
+ us.qa.mfp.sandbox.MyFirstProgram
