@@ -1,2 +1,6 @@
+us/qa/mfp/sandbox/Square.java
+ us.qa.mfp.sandbox.Square
+us/qa/mfp/sandbox/Rectangle.java
+ us.qa.mfp.sandbox.Rectangle
 us/qa/mfp/sandbox/MyFirstProgram.java
  us.qa.mfp.sandbox.MyFirstProgram
