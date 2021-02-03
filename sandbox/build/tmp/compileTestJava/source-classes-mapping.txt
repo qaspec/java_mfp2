@@ -1,0 +1,2 @@
+us/qa/mfp/sandbox/SquareTests.java
+ us.qa.mfp.sandbox.SquareTests
